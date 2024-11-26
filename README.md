@@ -1,4 +1,4 @@
-**Data Scraping Using Beautiful Soup and Selenium : Nepse Stock Dataset From Merolaganai**
+**Data Scraping Using Beautiful Soup and Selenium : Nepse Stock Transaction Data From Merolagani**
 
 A Python scraper using Selenium, BeautifulSoup and pandas to collect and save historical stock transaction data from Merolagani in CSV format for analysis.
 
